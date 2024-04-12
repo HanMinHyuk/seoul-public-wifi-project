@@ -18,3 +18,6 @@
 
 
 # ERD
+![ERD 모델링 1](https://github.com/HanMinHyuk/seoul-public-wifi-project/assets/154214319/a4b18882-f385-4288-a93d-d009e5c0f503)
+
+# 구현 영상
