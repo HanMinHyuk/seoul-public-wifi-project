@@ -11,12 +11,12 @@
 <br/>
 
 # 🖥 기술 스택
-* Language : Java (JDK 11)
-* Database : SQLite
-* Server : Tomcat 9.0.87
-* WEB : HTML, CSS, JSP
-* IDE : Eclipse
-* Library : gson 2.8.5, lombok, sqlite-jdbc 3.42.0.0
+* Language : `Java (JDK 11)`
+* Database : `SQLite`
+* Server : `Tomcat 9.0.87`
+* WEB : `HTML` , `CSS` , `JSP`
+* IDE : `Eclipse`
+* Library : `gson 2.8.5` , `lombok` , `sqlite-jdbc 3.42.0.0`
 
 <br/>
 
