@@ -26,4 +26,4 @@
 <br/>
 
 # 🎞 구현 영상
-![Video Label](http://img.youtube.com/vi/9R4ML6G-fkU/0.jpg)](https://youtu.be/9R4ML6G-fkU)
+[![Video Label](http://img.youtube.com/vi/9R4ML6G-fkU/0.jpg)](https://youtu.be/9R4ML6G-fkU)
